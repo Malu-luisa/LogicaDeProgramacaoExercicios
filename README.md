@@ -4,9 +4,9 @@ Este repositório contém exercícios resolvidos de lógica de programação, fo
 
 # Sites ultilizados 
 
-- **Beecrowd
-- **Leetcode
-- **Codechef
+- **Beecrowd**
+- **Leetcode**
+- **Codechef**
 
 ## Estrutura do Repositório
 
