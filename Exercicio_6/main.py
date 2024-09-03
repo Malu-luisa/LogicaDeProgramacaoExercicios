@@ -19,5 +19,5 @@
 #Resolução
 n1 = float(input())
 n2 = float(input())
-MEDIA = (n1+n2)/2
+MEDIA = ((n1*3.5)+(n2*7.5))/ (3.5+7.5)
 print('MEDIA = {:.5f}'.format(MEDIA))
